@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate student of Mathematics and Comput
 
 ## About Me
 - **Name**: Zihan Liu
-- **GitHub Username**: [GuoZheXinDeGuang](https://github.com/GuoZheXinDeGuang)
+- **GitHub Username**: [GuoZheXinDeGuang](https://github.com/GuoZheXinDeGuang) (This is a name of JJ Lin's Song)
 - **University**: NYU CAS (Mathematics & Computer Science)
 - **Location**: Brooklyn, NY, USA
 - **LinkedIn**: [Zihan Liu](https://www.linkedin.com/in/zihan-liu-284b06265)
