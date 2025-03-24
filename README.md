@@ -2,7 +2,7 @@
 <!-- <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" /> -->
 
 <h1 align="center">Hi 👋, I'm Zihan Liu</h1>
-<h3 align="center">A passionate CS & Math undergrad @ NYU CAS</h3>
+<h3 align="center">An enthusiastic CS & Math undergrad @ NYU CAS</h3>
 
 - 🚀 **Currently working on**: Research Assistant at the AI4CE Lab, focusing on Computer Vision and Slam. 
 - 🌱 **Currently learning**: Deep Learning, Reinforcement Learning, Slam and Mapping techniques, ROS etc.  
