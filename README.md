@@ -8,8 +8,10 @@
 - 🌱 **Currently learning**: Deep Learning, Reinforcement Learning, Slam and Mapping techniques, ROS etc.  
 - 🤝 **Looking to collaborate on**: Interesting AI/ML research, great coding endeavors  
 - 📫 **How to reach me**: zl4701@nyu.edu 
-- ⚡ **Fun facts**:  
-  - I’m a huge fan of **JJ Lin** and **Mayday**  
+- ⚡ **Fun facts**:
+  - My MBTI is enfp 😊
+  - I’m a huge fan of **JJ Lin** and **Mayday**
+  - The Image of my Github Page is Ashin, vocal of **Mayday**
   - I can solve a **3×3 Rubik’s Cube** in under **15 seconds**!
 
 ---
