@@ -11,7 +11,7 @@
 - ⚡ **Fun facts**:
   - My MBTI is enfp 😊
   - I’m a huge fan of **JJ Lin** and **Mayday**
-  - The Image of my Github Page is the picture of Mayday's 9th album in animated style
+  - The Image of my Github Page is the picture of Mayday
   - I can solve a **3×3 Rubik’s Cube** in under **15 seconds**!
 
 ---
