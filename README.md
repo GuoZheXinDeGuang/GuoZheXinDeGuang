@@ -7,7 +7,7 @@
 - 🚀 **Currently working on**: Research Assistant at the AI4CE Lab, focusing on Computer Vision and Slam. 
 - 🌱 **Currently learning**: Deep Learning, Reinforcement Learning, Slam and Mapping techniques, ROS etc.  
 - 🤝 **Looking to collaborate on**: Interesting AI/ML research, great coding endeavors  
-- 📫 **How to reach me**: zl4701@nyu.edu 
+- 📫 **How to reach me**: zl4701@nyu.edu or zihanli4@andrew.cmu.edu
 - ⚡ **Fun facts**:
   - My MBTI is enfp 😊
   - I’m a huge fan of **JJ Lin** and **Mayday**
