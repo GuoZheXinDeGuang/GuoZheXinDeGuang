@@ -8,7 +8,7 @@
 - 🌱 **Currently learning**: Deep Learning, Reinforcement Learning, Slam and Mapping techniques, ROS etc.  
 - 🤝 **Looking to collaborate on**: Interesting AI/ML research, great coding endeavors  
 - 📫 **How to reach me**: zl4701@nyu.edu or zihanli4@andrew.cmu.edu
-- **Fun Fact**: My Avatar is Rosé from blackpink
+- **Fun Fact**: My Avatar comes from Rosé from blackpink
 
 ---
 
