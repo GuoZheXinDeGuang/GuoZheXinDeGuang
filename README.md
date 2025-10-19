@@ -7,7 +7,7 @@
 - 🚀 **Currently working on**: Research Assistant at NYU and CMU, focusing on Navigation and Computer Vision. 
 - 🌱 **Currently learning**: Deep Learning, Reinforcement Learning, Slam and Mapping techniques, ROS etc.  
 - 🤝 **Looking to collaborate on**: Interesting AI/ML research, great coding endeavors  
-- 📫 **How to reach me**: zl4701@nyu.edu or zihanli4@andrew.cmu.edu
+- 📫 **How to reach me**: zl4701@nyu.edu
 - **Fun Fact**: My Avatar comes from Rosé from blackpink
 
 ---
